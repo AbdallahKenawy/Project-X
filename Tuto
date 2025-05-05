@@ -1,0 +1,9 @@
+Noeuds sous forme: typeNoeud, Id, Px,Py,Fx,Fy
+NoeudAD;1;306.0;473.0;0.0;0.0
+NoeudAD;2;894.0;476.0;0.0;0.0
+NoeudS;3;511.0;241.0;0.0;0.0
+Barres sous forme: Id, Noeud Dep Id,Noeud Fin Fd, CompMax,TracMax, Prix
+Barre;1;1;3;0.0;0.0;0.0
+Barre;2;2;3;0.0;0.0;0.0
+Terrains reduites sous forme de 3 points avec px et py pour chaque point
+0;Terrain;179.0;485.0;1123.0;481.0;575.0;665.0;
